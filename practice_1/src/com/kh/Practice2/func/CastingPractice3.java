@@ -19,7 +19,7 @@ public class CastingPractice3 {
 		
 		
 		System.out.println((float) 2*(iNum2) + dNum1 ); // 10.0
-		System.out.println((float) iNum1);  //±×³É ÇØºÃ½À´Ï´Ù.
+		System.out.println((float) iNum1);  //ï¿½×³ï¿½ ï¿½ØºÃ½ï¿½ï¿½Ï´ï¿½.
 		float iNum12 = (float) iNum1;
 		System.out.println(iNum12); // 10.0
 		
@@ -28,7 +28,7 @@ public class CastingPractice3 {
 		int fNum1 = (int) fNum;
 		System.out.println(fNum1); // 3
 		
-		System.out.println("°ø¹é"); // 3
+		System.out.println("ï¿½ï¿½ï¿½ï¿½"); // 3
 		
 		System.out.println(iNum1 / fNum); // 3.333333
 		double fNumDouble = (double) fNum;
@@ -37,7 +37,8 @@ public class CastingPractice3 {
 		System.out.println(ch); // 'A'
 		System.out.println((int)ch); // 65
 		System.out.println(iNum1 + (int)ch); // 75
-		System.out.println((char) ((int)ch + iNum1)); // 'K' 75
+		System.out.println((char) ((int)ch + iNum1)); // 'K' 75 
+		//
 	}
 
 }

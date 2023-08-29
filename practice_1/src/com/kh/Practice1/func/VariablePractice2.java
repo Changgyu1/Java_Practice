@@ -9,13 +9,13 @@ public class VariablePractice2 {
 		
 		int first, second;
 		
-		System.out.println("Ã¹¹øÂ° Á¤¼ö¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä : ");
+		System.out.println("ì²« ë²ˆì§¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš”: ");
 		first = sc.nextInt();
-		System.out.println("µÎ¹øÂ° Á¤¼ö¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä : ");
+		System.out.println("ë‘ ë²ˆì§¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš” : ");
 		second = sc.nextInt();
 		
-		System.out.println("Ã¹ ¹øÂ° Á¤¼ö : " + first);
-		System.out.println("µÎ ¹øÂ° Á¤¼ö : " + second);
+		System.out.println("ì²« ë²ˆì§¸ ì •ìˆ˜ : " + first);
+		System.out.println("ë‘ ë²ˆì§¸ ì •ìˆ˜ : " + second);
 		System.out.println(first + " + " + second + " = " + (first + second));
 		System.out.println(first + " - " + second + " = " + (first - second));
 		System.out.println(first + " * " + second + " = " + (first * second));

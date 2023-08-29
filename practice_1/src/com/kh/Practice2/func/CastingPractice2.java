@@ -10,22 +10,22 @@ public class CastingPractice2 {
 		
 		float korean, math, english;
 		
-		System.out.println("±¹¾î Á¡¼ö¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä : ");
+		System.out.println("êµ­ì–´ ì ìˆ˜ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš” : ");
 		korean = sc.nextFloat();
-		System.out.println("¼öÇĞ Á¡¼ö¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä : ");
+		System.out.println("ìˆ˜í•™ ì ìˆ˜ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš” : ");
 		math = sc.nextFloat();
-		System.out.println("¿µ¾î Á¡¼ö¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä : ");
+		System.out.println("ì˜ì–´ ì ìˆ˜ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš” : ");
 		english = sc.nextFloat();
 		
-		System.out.println("±¹¾î : " + korean);
-		System.out.println("¼öÇĞ : " + math);
-		System.out.println("¿µ¾î : " + english);
+		System.out.println("êµ­ì–´ : " + korean);
+		System.out.println("ìˆ˜í•™ : " + math);
+		System.out.println("ì˜ì–´ : " + english);
 		int korean1 = (int) korean;
 		int math1 = (int) math;
 		int english1 = (int) english;
 		
-		System.out.println("ÃÑÁ¡ : " + (korean1 + math1 + english1));
-		System.out.println("Æò±Õ : " + (korean1 + math1 + english1)/3);
+		System.out.println("ì´ì  : " + (korean1 + math1 + english1));
+		System.out.println("í‰ê·  : " + (korean1 + math1 + english1)/3);
 		
 
 	}

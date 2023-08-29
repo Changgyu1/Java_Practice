@@ -10,9 +10,7 @@ public class CastingPractice1 {
 		
 		
 		
-		System.out.println("¾ËÆÄºª ¹®ÀÚ¸¦ ÇÏ³ª Àû¾îÁÖ¼¼¿ä : ");
-		//Àß¸ð¸¨´Ï´Ù.
-		
+		System.out.println("ìž˜ëª¨ë¥´ê² ìŠµë‹ˆë‹¤. : ");	
 
 	}
 

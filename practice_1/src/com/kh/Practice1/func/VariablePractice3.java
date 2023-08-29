@@ -11,15 +11,15 @@ public class VariablePractice3 {
 		
 		double width, length;
 		
-		System.out.println("°¡·ÎÀÇ °ªÀ» Àû¾îÁÖ¼¼¿ä : ");
+		System.out.println("ê°€ë¡œë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš” : ");
 		width = sca.nextDouble();
-		System.out.println("¼¼·ÎÀÇ °ªÀ» Àû¾îÁÖ¼¼¿ä : ");
+		System.out.println("ì„¸ë¡œë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš” : ");
 		length = sca.nextDouble();
 		
-		System.out.println("°¡·ÎÀÇ ±æÀÌ : " + width);
-		System.out.println("¼¼·ÎÀÇ ±æÀÌ : " + length);
-		System.out.println("¸éÀû : " + (width * length));
-		System.out.println("µÑ·¹ : " + (width + length)*2);
+		System.out.println("ê°€ë¡œ : " + width);
+		System.out.println("ì„¸ë¡œ : " + length);
+		System.out.println("ë©µì : " + (width * length));
+		System.out.println("ë‘˜ë ˆ : " + (width + length)*2);
 
 	}
 }

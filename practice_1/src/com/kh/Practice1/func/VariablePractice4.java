@@ -10,7 +10,7 @@ public class VariablePractice4 {
 		String c1;
 		
 		
-		System.out.println("¹®ÀÚ¿­À» ÀÔ·ÂÇØÁÖ¼¼¿ä : ");
+		System.out.println("ì˜ëª¨ë¥´ê² ìŠµë‹ˆë‹¤. : ");
 		
 
 	}

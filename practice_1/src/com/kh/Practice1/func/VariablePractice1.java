@@ -12,16 +12,16 @@ public class VariablePractice1 {
 		int age;
 		float key;
 		
-		System.out.println("ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä : ");
+		System.out.println("ì´ë¦„ì„ ì…ë ¥í•˜ì„¸ìš” : ");
 		name = sc.next();
-		System.out.println("¼ºº°À» ÀÔ·ÂÇÏ¼¼¿ä : ");
+		System.out.println("ì„±ë³„ì„ ì…ë ¥í•˜ì„¸ìš” : ");
 		gender = sc.next();
-		System.out.println("³ªÀÌ¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+		System.out.println("ë‚˜ì´ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 		age = sc.nextInt();
-		System.out.println("Å°¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+		System.out.println("í‚¤ë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 		key = sc.nextFloat();
 		
-		System.out.println("Å° " + key + "cmÀÎ " + age + "»ì " + gender + " " + name + "´Ô ¹İ°©½À´Ï´Ù.");
+		System.out.println("í‚¤ " + key + "cmì¸ " + age + "ì‚´ " + gender + " " + name + "ë‹˜ ë°˜ê°‘ìŠµë‹ˆë‹¤.");
 		
 
 	}
