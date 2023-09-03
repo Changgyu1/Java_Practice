@@ -14,7 +14,7 @@ public class Menu01_1 {
 		System.out.println("+ , - , * , / 중 하나를 입력해주세요!");
 		char oper = sc1.next().charAt(0);
 		int sum;
-		switch(oper) {
+		switch(oper) { 
 			case '+':
 				sum = num1 + num2;
 				System.out.println(num1 + " + " + num2 + " = " + sum);

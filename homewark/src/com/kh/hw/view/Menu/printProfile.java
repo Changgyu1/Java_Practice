@@ -11,7 +11,7 @@ public class printProfile {
 		
 
 		
-		while (!isTrue) {
+		while (!isTrue) { 
 			System.out.println("이름 : ");
 			String name = sc.next();
 
