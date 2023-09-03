@@ -10,9 +10,8 @@ public class sumRandom {
 		int sum = 0;
 		for(int i = 1; i <= ran; i++) {
 			sum += i;
-			System.out.println("1 ~ 100까지 랜덤숫자 합 : " + sum);
 		}
-		System.out.println("r : " + ran);
+		System.out.println("r : " + sum);
 	}
 
 }

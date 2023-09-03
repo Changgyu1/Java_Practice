@@ -11,13 +11,14 @@ public class exceptGugu {
 		int number = sc.nextInt();
 		int sum = 0;
 
-		for (int i = 1; i <= number; i++) {
-			if (i * number == number * i) {
-				sum += number;
+		for (int i = 1; i <= 9; i++) {
+			sum += number;
+			if (i  % number != 0) {
 				System.out.println(number + " * " + i + " = " + sum);
-				
+			} else {
+				continue;
 			}
 		}
 	}
-
+ 
 }
