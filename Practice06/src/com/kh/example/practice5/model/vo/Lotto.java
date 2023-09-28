@@ -22,7 +22,10 @@ public class Lotto {
 		for(int i = 0; i < 6; i++) {
 			System.out.print(lotto[i] + ", ");
 		}
+	
 	}
+	
+	
 
 	public int[] getLotto() {
 		return lotto;
