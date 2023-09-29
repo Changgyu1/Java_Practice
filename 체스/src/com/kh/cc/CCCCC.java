@@ -17,7 +17,7 @@ public class CCCCC {
 
 	public static void main(String[] args) {
 		CCCCC run = new CCCCC();
-		boolean isTrue = false;+
+		boolean isTrue = false;
 		int black = 1;
 		String blank = "□";
 		String KingB = "♠";
